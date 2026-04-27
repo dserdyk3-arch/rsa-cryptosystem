@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Создаваемые программой файлы (не загружаем в Git)
+private_key.txt
+public_key.txt
+encrypted.txt
+decrypted.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
